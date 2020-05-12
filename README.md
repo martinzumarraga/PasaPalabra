@@ -1,2 +1,2 @@
 # PasaPalabra
-Mobile App which consist on answering correctly the questions given by the app
+Mobile App which consists of answering correctly the questions given by the app
